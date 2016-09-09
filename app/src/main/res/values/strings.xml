@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Word Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_word_search">Word Search Activity</string>
+</resources>
